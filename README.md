@@ -5,6 +5,7 @@ Este repositorio contiene el desarrollo completo del Laboratorio 5, cuyo objetiv
 
 A partir del conjunto de datos adquirido en los laboratorios anteriores, se realiza un análisis exploratorio y un modelo de regresión lineal para predecir la temperatura a partir de la humedad relativa, demostrando el proceso completo desde la captura de datos hasta la evaluación del modelo.
 
+
 🧩 Estructura del repositorio
 Laboratorio-5---Prog.-Microprocesadores/
 
@@ -29,6 +30,7 @@ Laboratorio-5---Prog.-Microprocesadores/
 └── README.md # Documentación del proyecto
 
 
+
 ⚙️ Requisitos
 
 Antes de ejecutar el proyecto, se deben instalar las librerías necesarias.
@@ -48,6 +50,7 @@ matplotlib
 seaborn
 
 scikit-learn
+
 
 🧠 Ejecución del modelo
 
@@ -70,6 +73,7 @@ Evaluación del modelo mediante RMSE y R².
 
 Visualización de resultados y comparaciones entre valores reales y predichos.
 
+
 ☁️ Ejecución automatizada (GitHub Actions)
 
 El entrenamiento también puede realizarse de forma automática mediante GitHub Actions.
@@ -79,6 +83,7 @@ train_model.yml
 
 
 Este flujo permitirá ejecutar el script de entrenamiento de manera remota (runner), asegurando la reproducibilidad del proyecto.
+
 
 📊 Resultados esperados
 
