@@ -10,7 +10,7 @@ import math
 # ==== Lectura de los datos ====
 # Cargar el dataset desde GitHub o desde una carpeta local
 # Si lo ejecutas en local, reemplaza la URL por "data/lab3.csv"
-url = "https://raw.githubusercontent.com/TU_USUARIO/lab5-arduino-ml/main/data/lab3.csv"
+url = "https://raw.githubusercontent.com/TU_USUARIO/Laboratorio-5----Prog.-Microprocesadores/main/data/data.csv"
 datos = pd.read_csv(url)
 
 # Mostrar información básica
