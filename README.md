@@ -7,12 +7,19 @@ A partir del conjunto de datos adquirido en los laboratorios anteriores, se real
 
 🧩 Estructura del repositorio
 Laboratorio-5---Prog.-Microprocesadores/
+
 │
+
 ├── data/               # Contiene los datasets originales (CSV o TXT)
+
 │   └── data.csv
+
 │
+
 ├── scripts/            # Scripts de análisis y modelamiento
+
 │   └── model_training.py
+
 │
 ├── requirements.txt    # Librerías necesarias para ejecutar el proyecto
 ├── config.yaml         # Archivo de configuración del modelo
