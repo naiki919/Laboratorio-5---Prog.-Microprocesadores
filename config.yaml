@@ -1,0 +1,4 @@
+data_path: "./data/data.csv"
+model_type: "LinearRegression"
+test_size: 0.2
+random_state: 42
